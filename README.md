@@ -7,7 +7,7 @@ Score updation and basic features.<br>
 <b>Instructions</b> : Player controls tha mallets , disc as soon as hits either goal , score is accounted and disc is reset at center<br> 
 Any Suggestion and advices are welcome.<br>
 Mail me at mohitfeuhrer@gmail.com <br>
-<u>Acknowledgement</u> : python documentation and tech sites and blogs <br>
-<u>Image Sources</u> : google , https://github.com/ross85/airhockey/tree/master/resources/img <br>
-
+<b>Acknowledgement</b> : python documentation and tech sites and blogs <br>
+<b>Image Sources</b> : google , https://github.com/ross85/airhockey/tree/master/resources/img <br>
+<br>
 ![Screenshot](https://github.com/mkfeuhrer/Air-hockey/blob/master/airhockey.png)
