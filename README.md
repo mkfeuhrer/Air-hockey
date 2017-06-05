@@ -10,4 +10,4 @@ Mail me at mohitfeuhrer@gmail.com <br>
 <b>Acknowledgement</b> : python documentation and tech sites and blogs <br>
 <b>Image Sources</b> : google , https://github.com/ross85/airhockey/tree/master/resources/img <br>
 <br>
-<br>![Screenshot](https://github.com/mkfeuhrer/Air-hockey/blob/master/airhockey.png)<br>
+<br>![alt text](https://github.com/mkfeuhrer/Air-hockey/blob/master/airhockey.png)<br>
