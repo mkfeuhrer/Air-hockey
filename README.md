@@ -16,14 +16,6 @@ Simple pygame implementation of 2 player Air Hockey game. It has score updation 
 - Player 2 - arrow keys
 - Player controls tha mallets disc as soon as hits either goal , score is accounted and disc is reset at center. 
 
-
-Any Suggestion and advices are welcome.<br>
-Mail me at mohitfeuhrer@gmail.com <br>
-<b>Acknowledgement</b> : python documentation and tech sites and blogs <br>
-<b>Image Sources</b> : google , https://github.com/ross85/airhockey/tree/master/resources/img <br>
-<br>
-<br>![alt text](https://github.com/mkfeuhrer/Air-hockey/blob/master/airhockey.png)<br>
-
 ## Contribute
 
 Feel free to contribute. Add new features or improve existing codebase.
